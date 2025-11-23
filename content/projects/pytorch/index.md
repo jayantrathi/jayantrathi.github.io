@@ -5,7 +5,7 @@ links:
   - type: site
     url: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
+  - Assumption University
   - HugoBlox
   - Markdown
 ---
