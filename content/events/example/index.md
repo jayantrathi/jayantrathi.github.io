@@ -1,5 +1,5 @@
 ---
-title: Conference Talk
+title: EECON 46 - Conference 
 
 event: EECON 46
 event_url: https://eecon46.sau.ac.th/#h.e04hcfj7vbik
@@ -19,7 +19,7 @@ abstract: As the sole student presenter at a professional-majority conference re
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-11-17T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date_end: '2023-11-17T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -34,16 +34,12 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 links:
   - type: code
     url: https://github.com
   - type: slides
-    url: https://slideshare.net
-  - type: video
-    url: https://youtube.com
+    url: [https://slideshare.net](https://docs.google.com/presentation/d/1snT2veRO5GdRKjuEiLgDQ_Hpi1TTLFZe9mZ4Y_2ll4s/edit?usp=sharing)
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
