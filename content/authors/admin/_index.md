@@ -23,28 +23,30 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MS Robotics Student 
+role: Robotics & AI Engineer | MS Robotics Student
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Northeastern University
-    url: 
+    url: https://www.northeastern.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'rathi.j@northeastern.edu'
+    url: 'mailto:rathi.j@northeastern.edu'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jayant-rathi-8a13b3201/
 
+# Interests
 interests:
-  - Large Language Models
+  - Robotics
+  - Autonomous Systems
   - Computer Vision
   - Reinforcement Learning
-  - AI Ethics
+  - Embedded Systems
 
+# Education
 education:
   - area: MS Robotics (Mechanical Engineering)
     institution: Northeastern University
@@ -52,113 +54,123 @@ education:
     date_start: 2024-08-01
     date_end: 2026-12-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Coursework in Robotic Sensing & Navigation, Robot Mechanics & Control,
+      Control Systems Engineering, and Reinforcement Learning. Focus on ROS2,
+      autonomous navigation, LiDAR–IMU fusion, and deep RL agents.
+  - area: BS Mechatronics Engineering
+    institution: Assumption University of Thailand
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2018-10-05
+    date_end: 2023-06-05
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.51/4.0  
+      Rector’s Certificate of Honors (2 consecutive years).  
+      President of Debate Club (2019–2023).
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
+# Work Experience
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Process Engineering Intern
+    company_name: Mercedes-Benz Manufacturing Thailand
+    company_url: 'https://group.mercedes-benz.com/en/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2023-04-01
+    date_end: 2023-09-30
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Developed ML-driven part-replacement prediction tools and automated
+      shipping-tracking systems across SE Asia operations. Built dashboards
+      for logistics KPIs and provided cross-functional troubleshooting across
+      data systems, sensors, and automation pipelines.
+
+  - position: AI Development Intern
+    company_name: Baksters Computer Vision (AI Research Startup)
+    company_url: ''
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2021-09-01
+    date_end: 2022-01-31
+    summary: |2-
+      Built a real-time sound-based home-security AI system using TensorFlow
+      achieving 97% hazard detection accuracy. Supported embedded debugging,
+      prototype integration, and delivered demos to major telecom clients
+      including True Corp and AIS.
+
+  - position: CEO Office Intern
+    company_name: Varun Beverages (Pepsi's Largest Bottler in Asia)
+    company_url: ''
+    icon: ''
+    date_start: 2018-01-05
+    date_end: 2018-03-30
+    summary: |2-
+      Assisted C-suite leadership across production, distribution, and
+      operations. Supported on-site process reviews and cross-functional
+      coordination in one of Asia’s largest beverage manufacturing plants.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Robotics (ROS2, SLAM, Navigation)
+        description: ''
+        percent: 95
+        icon: robot
+      - name: Machine Learning & RL
+        description: ''
+        percent: 90
+        icon: chart-bar
+      - name: Embedded Systems (ESP32, MCUs)
+        description: ''
+        percent: 85
+        icon: cpu-chip
+      - name: Python, C, C++, PyTorch, TensorFlow
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Linux, Docker, Git/GitLab
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+        percent: 90
+        icon: command-line
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Automotive Analysis
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: car
+      - name: Fitness & Training
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 85
+        icon: heart
+      - name: Photography & Tech Reviews
+        description: ''
+        percent: 75
+        icon: camera
 
+# Languages
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Hindi
+    percent: 90
+  - name: Thai
+    percent: 60
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: Research Publication – AI in Home Security
+    url: ''
+    date: '2023-11-01'
+    awarder: EECON 46 (IEET Proceedings)
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
----
+      Presented research on multi-modal AI home-security systems integrating
+      facial recognition, audio classification, and motion detection.
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+  - title: Rector’s Certificate of Honors
+    url: ''
+    date: '2021-12-01'
+    awarder: Assumption University
+    icon: hero/trophy
+    summary: |
+      Awarded for maintaining a GPA above 3.85 for two consecutive academic years.
+---
