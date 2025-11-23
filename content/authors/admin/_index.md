@@ -38,10 +38,6 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jayant-rathi-8a13b3201/
- ## - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
- ## - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
