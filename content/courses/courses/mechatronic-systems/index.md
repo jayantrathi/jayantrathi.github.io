@@ -7,7 +7,7 @@ links:
 tags:
   - Northeastern
 image:
-  icon: /media/logos/neu_logo.png
+  filename: "media/logos/neu_logo.png"
 ---
 
 Covers sensors, actuators, microcontrollers, system modeling, and multi-domain integration.
