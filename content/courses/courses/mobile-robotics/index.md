@@ -7,7 +7,7 @@ links:
 tags:
   - Northeastern
 image:
-  icon: /media/logos/neu_logo.png
+  filename: "media/logos/neu_logo.png"
 ---
 
 Investigates mobile robot kinematics, dynamics, perception, SLAM, and motion planning.
