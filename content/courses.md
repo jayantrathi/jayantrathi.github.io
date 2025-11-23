@@ -3,21 +3,15 @@ title: 'Courses'
 date: 2025-09-21
 type: landing
 
-# design:
-#   spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: collection
     content:
       title: Relevant Coursework
-      text: These are a selection of relevant courses I have taken at Assumption University of Thailand and Northeastern University.
+      text: These are a selection of relevant courses I have taken at Northeastern University and Assumption University.
       filters:
         folders:
           - courses
-      count: 12
+      count: 0
     design:
       view: article-grid
       fill_image: false
