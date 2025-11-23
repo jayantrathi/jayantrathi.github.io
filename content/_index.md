@@ -40,7 +40,7 @@ sections:
 
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '3'
   - block: collection
     id: papers
     content:
