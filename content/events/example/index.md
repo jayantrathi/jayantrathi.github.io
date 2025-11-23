@@ -42,7 +42,10 @@ links:
   - type: code
     url: https://github.com
   - type: slides
-    url: [https://slideshare.net](https://docs.google.com/presentation/d/1snT2veRO5GdRKjuEiLgDQ_Hpi1TTLFZe9mZ4Y_2ll4s/edit?usp=sharing)
+    url: https://docs.google.com/presentation/d/1snT2veRO5GdRKjuEiLgDQ_Hpi1TTLFZe9mZ4Y_2ll4s/edit?usp=sharing
+  - type: video
+    url: https://youtube.com
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
