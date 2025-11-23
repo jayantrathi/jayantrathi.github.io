@@ -17,7 +17,7 @@ sections:
       filters:
         folders:
           - courses
-      count: 20
+      count: 12
     design:
       view: article-grid
       fill_image: false
