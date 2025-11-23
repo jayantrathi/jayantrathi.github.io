@@ -174,3 +174,5 @@ awards:
     summary: |
       Awarded for maintaining a GPA above 3.85 for two consecutive academic years.
 ---
+
+Im a Robotics & AI engineer working on my M.S. in Robotics at Northeastern University, specializing in autonomous vehicle systems, humanoid robotics and human-computer interaction. With industry experience at Mercedes-Benz Manufacturing and multiple projects diving into the world of Machine Learning, I love building a bridge between hardware, control and artificial Intelligence.  
