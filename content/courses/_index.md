@@ -17,8 +17,10 @@ sections:
       title: Courses
       filters:
         tag: Course
-        kinds:
-          - section
+      # To show all pages, count: 0
+      count: 0
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       view: article-grid
       show_read_time: false
