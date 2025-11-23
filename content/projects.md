@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2025-09-21
+date: 2024-05-19
 type: landing
 
 design:
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Highlighted Projects
-      text: I've had the opportunity to work on and lead many unique projects. Here are some of the highlights. (This section continues to be updated, feel free to check back frequently)
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - project
+          - projects
     design:
       view: article-grid
       fill_image: false
@@ -23,4 +23,3 @@ sections:
       show_date: false
       show_read_time: false
       show_read_more: false
----
