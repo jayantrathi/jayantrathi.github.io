@@ -14,13 +14,11 @@ publishDate: '2024-01-01T00:00:00Z'
 
 publication_types: ['paper-conference']
 
-publication: In *EECON 46 — International Electrical Engineering Conference (IEET Proceedings)*
-publication_short: In *EECON 46*
+publication: In the IEET (International Electrical Engineering Transactions) — Electrical Engineering Academic Association (Thailand)*
+publication_short: Presented at *EECON 46*
 
 abstract: |
-  This work presents a multi-modal intelligent home security system integrating
-  facial recognition, audio hazard detection, motion tracking, and cloud-linked
-  notification modules. The system utilizes machine learning pipelines deployed
+  This paper presents the research and implimentation of a multi-modal intelligent       home security system integrating facial recognition, audio hazard detection, motion    tracking, and cloud-linked notification modules. The system utilizes machine           learning pipelines deployed
   on embedded hardware to process real-time sensory data, achieving high
   accuracy in detecting dangerous acoustic events such as screams, drops,
   and fire-related sounds. The project demonstrates the feasibility of a
@@ -47,10 +45,6 @@ hugoblox:
 links:
   - type: pdf
     url: "https://www.journal.eeaat.or.th/images/pdf/1%20AI%20in%20Home%20Security.pdf"
-  - type: code
-    url: ""
-  - type: video
-    url: ""
 
 image:
   caption: 'AI Home Security Robot Prototype'
@@ -62,7 +56,3 @@ projects:
 
 slides: ""
 ---
-
-## Full Text
-
-(…rest of your detailed text here…)
