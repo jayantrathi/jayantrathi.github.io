@@ -1,12 +1,14 @@
 ---
-title: 'AI in Home Security: A Multi-Modal Intelligent Surveillance System'
+title: 'AI in Home Security: The Potential of Sound and Facial Recognition AI'
 
 authors:
   - admin
-  - ABAC Faculty Co-Author
+  - Prof. Dr. Narong Aphiratsakun
+  - Prof. Jerapong Rojanarowon
 
 author_notes:
   - 'Lead student author'
+  - 'Faculty supervisor'
   - 'Faculty supervisor'
 
 date: '2023-11-01T00:00:00Z'
