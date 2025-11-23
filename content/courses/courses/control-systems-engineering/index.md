@@ -7,7 +7,7 @@ links:
 tags:
   - Northeastern
 image:
-  icon: /media/logos/neu_logo.png
+  filename: "media/logos/neu_logo.png"
 ---
 
 Covers classical and state-space control, stability, Bode/Nyquist analysis, and compensator design.
