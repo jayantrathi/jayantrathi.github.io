@@ -97,11 +97,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
+     design:
       card:
         # Card background color (CSS class)
         css_class: 'bg-primary-300 dark:bg-primary-700'
