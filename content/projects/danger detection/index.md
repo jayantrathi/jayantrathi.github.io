@@ -5,6 +5,7 @@ links:
 
 tags:
   - Intelligent Systems Lab
+  - Project
   - HugoBlox
   - Markdown
 ---
