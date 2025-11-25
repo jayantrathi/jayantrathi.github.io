@@ -1,6 +1,6 @@
 ---
 title: AI Home Security Robot (Senior Project - Undergraduate)
-date: 2023-8-26
+date: 2023-08-26
 links:
 
 tags:
