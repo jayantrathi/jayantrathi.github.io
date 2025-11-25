@@ -35,7 +35,7 @@ sections:
       subtitle: ''
       text: |-
         Professionally, I am a Robotics Engineer who builds intelligent systems end-to-end, combining robotics, automation, and machine learning into           practical, deployed solutions. I love complex and real world problems and eventually seeing their solutions have positive effects on the                 people around me.
-     Personally, I'm a Indian born in Thailand, whose grown up in Sri Lanka and is currently in Boston. Having changed 7 schools by the time I was in 5th grade I've developed a knack for adaptability and finding comfort in the uncomfortable and I take that approach towards most of what I         do. 
+        Personally, I'm a Indian born in Thailand, whose grown up in Sri Lanka and is currently in Boston. Having changed 7 schools by the time I was           in 5th grade I've developed a knack for adaptability and finding comfort in the uncomfortable and I take that approach towards most                      of what I do. 
         
     design:
       columns: '1'
