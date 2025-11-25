@@ -1,6 +1,6 @@
 ---
 title: Reinforcement Learning Algorithms for Atari & Custom Game Environments 
-date: 2023-10-26
+date: 2024-12-26
 links:
 
 tags:
