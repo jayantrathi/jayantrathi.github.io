@@ -10,7 +10,9 @@ tags:
 
 Technologies: ROS2 (Nav2, TF2), LeGO-LOAM, VLP-16 LiDAR, IMU fusion, GPS, RViz2, Python/C++
 
-A full mapping and localization pipeline for a ground robot, focused on producing stable 3D maps and accurate real-time odometry:
+My first project at Northeastern, part of the Robot Sensing and Navigation course, allowing me to truly understand the core principles of the class and its real world applications.
+
+A full mapping and localization system for a ground robot/autonomous vehicle, focused on producing stable 3D maps and accurate real-time odometry:
 
 •	Integrated VLP-16 LiDAR, IMU, and GPS into a ROS2 launch architecture using TF2-corrected frames.
 
