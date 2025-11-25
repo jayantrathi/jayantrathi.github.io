@@ -10,9 +10,11 @@ tags:
 ---
 Technologies: Python, TensorFlow/Keras, YAMNet, ESP32 microphones, Firebase, CCTV audio extraction
 
+My first project with the ISL, by the end of which I was introduced into the Baksters organization.
+
 A machine-learning system designed to detect human entrance, exit, and presence events using audio instead of cameras.
 
-• Developed an AI pipeline capable of identifying door events and human-voice signatures by training on real office audio data.
+• Developed an AI system capable of identifying door events and human-voice signatures by training on real office audio data.
 
 • Collected and curated over 500+ audio clips covering door sounds, human talk, and environmental noise to build a balanced dataset.
 
