@@ -34,7 +34,9 @@ sections:
       title: 'About Me '
       subtitle: ''
       text: |-
-       I am a robotics and AI engineer with a life shaped by motion, on the road, in the gym, and across the world. My passions stretch from F1, tennis, boxing, and strength training to cooking and exploring new cultures, each adding its own layer to how I think and work. I’ve traveled widely, and that perspective shows up in the way I solve problems: fast, adaptable, and grounded in real-world context. Professionally, I build intelligent systems end-to-end, combining robotics, automation, and machine learning into practical, deployed solutions. Altogether, I’m someone who moves with intention whether I’m designing a system, learning a new skill, or navigating a new city.
+    Professionally, I am a Robotics Engineer who builds intelligent systems end-to-end, combining robotics, automation, and machine learning into practical, deployed solutions. I love complex and real world problems and eventually seeing their solutions have positive effects on the people around me. 
+
+Personally, I'm a Indian born in Thailand, whose grown up in Sri Lanka and is currently in Boston. Having changed 7 schools by the time I was in 5th grade I've developed a knack for adaptability and finding comfort in the uncomfortable and I take that approach towards most of what I do. 
         
     design:
       columns: '1'
