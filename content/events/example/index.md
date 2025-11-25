@@ -12,7 +12,7 @@ address:
   postcode: '81180'
   country: Thailand
 
-summary: A showcase of my research paper infront of industry leaders
+summary: A showcase of the above mentioned research at the EECON 46 conference with industry leaders in Thailand 
 abstract: As the sole student presenter at a professional-majority conference representing my university, I showcased the development and deployement of my senior project, a fully integrated home-security robot that merged real-time facial recognition, audio hazard detection through real time clasification, motion tracking, and cloud-based alerts. Deployed on embedded hardware and orchestrated with autonomous navigation, the system processed multiple forms of data and achieved 97% accuracy on hazardous acoustic events. Live demos captured autonomous patrols and instant homeowner notifications via Firebase. The objective of the showcase was to validate how a compact, agile robot can fill a critical gap in residential safety and positioned my work as a serious contributor in both academic and industrial robotics engineering infront of many of the industry leaders in innovation in Thailand. With positive feedback throughout the listeners and organizers I was confident that I was able to present well and showcase the core advantages of AI based security robots and the specific use cases of my project in general. 
 
 
