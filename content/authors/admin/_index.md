@@ -133,15 +133,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Automotive Analysis
+      - name: Motorsports, Tech & Aerospace 
         description: ''
         percent: 90
         icon: car
-      - name: Fitness & Training
+      - name: Weight Training, Tennis, Boxing & Gaming
         description: ''
         percent: 85
         icon: heart
-      - name: Photography & Tech Reviews
+      - name: Travel, Food, Movies & Fashion
         description: ''
         percent: 75
         icon: camera
