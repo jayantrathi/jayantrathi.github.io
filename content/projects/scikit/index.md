@@ -1,6 +1,6 @@
 ---
 title: Reinforcement Learning Algorithms for Atari & Custom Game Environments 
-date: 2024-12-26
+date: 2025-04-26
 links:
 
 tags:
@@ -11,7 +11,9 @@ tags:
 
 Technologies: PyTorch, Gymnasium, DQN/PPO/DDPG, frame stacking, CNN encoders, Replay Buffers
 
-A series of advanced RL models trained from pixels and low-dimensional states:
+I choose this topic as the final project for my Reinforcement Learning and Sequential Decision Making as it was an amalgamation of the entire course and its application in a field that I truly enjoyed understanding
+
+A series of advanced RL models trained from pixels and low-dimensional states inorder to understand their way around multiple game enviroments.
 
 •	Built full RL training pipelines, including:
 CNN encoders, frame-stacking, NoisyNets, target networks, multi-step returns, and epsilon-schedule strategies.
