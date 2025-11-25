@@ -13,9 +13,9 @@ Technologies: Python, YAMNet embeddings, SVM classifier, TensorFlow Lite, CCTV a
 
 This was my main project during the time I was a part of both the ISL and Baksters Limited.
 
-This project is an audio based safety system designed to detect dangerous or urgent events in real time using machine-learning.
+This project is an audio based safety system designed to detect dangerous or urgent events in real time using machine-learning without breaching the privacy of the residents through constant camera surveillance.
 
-• Built an end-to-end pipeline that extracts audio from ESP32 microphones and converts raw sound into machine learnable embeddings using YAMNet.
+• Built an end-to-end pipeline that extracts audio from ESP32 microphones and converts raw sound into machine learnable embeddings using YAMNet, totalling around 1400 sound files to train on.
 
 • After having trouble trying to create a ground up model with Keras, my team choose to train SVM classifiers to recognize high risk audio patterns such as glass breaking, screaming, falls, and baby crying by feeding them structured embedding vectors instead of raw waveforms.
 
