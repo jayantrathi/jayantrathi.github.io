@@ -10,6 +10,8 @@ tags:
 ---
 Technologies: ESP32, Firebase, Node-RED, Android/Blynk, MATLAB Simulink, PLC logic
 
+A semester project for my controls engineering class at Assumption University. Surrounded by farmland, we wanted to try to pitch the concept of an idea that could actually be utilized by the community around our beautiful campus. 
+
 A cloud-connected mobile control system for agriculture automation:
 
 •	Designed an IoT architecture where the ESP32 acted as the hardware control layer, communicating with a Firebase database.
