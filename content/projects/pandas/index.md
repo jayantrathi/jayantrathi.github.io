@@ -1,6 +1,6 @@
 ---
 title: Autonomous Vehicle Mapping & Localization (ROS2 + LiDAR + Sensor Fusion)
-date: 2025-02-26
+date: 2024-12-26
 links:
 tags:
   - Northeastern University
