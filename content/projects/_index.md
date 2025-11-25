@@ -10,8 +10,8 @@ sections:
   - block: collection
     id: projectlist
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: Here are a selection of projects that I have worked on over the years from labs and courses to final projects, all of these projects have had a significant impact my choice of studying robotics and wanting to dive further into the world of AI and Robotics
       filters:
         folders:
           - projects
