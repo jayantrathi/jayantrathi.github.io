@@ -15,11 +15,11 @@ sections:
       filters:
         folders:
           - projects
-      count: 7    # ← ✔ THE FIX
+      count: 8    # ← ✔ THE FIX
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 4
       show_date: false
       show_read_time: false
       show_read_more: false
