@@ -4,7 +4,7 @@ date: 2024-12-26
 links:
 
 tags:
-  - Northeastern
+  - Northeastern University
   - HugoBlox
   - Markdown
 ---
