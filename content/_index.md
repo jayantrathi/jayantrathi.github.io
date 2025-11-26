@@ -9,21 +9,21 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      buttons:
-        - text: Download CV
-          url: uploads/CV.pdf
-        - text: Download Research Paper
-          url: publications/conference-paper/conference-paper.pdf
+      text: |
+        <a class="btn btn-primary" href="uploads/CV.pdf" style="margin-right: 10px;">Download CV</a>
+        <a class="btn btn-secondary" href="publications/conference-paper/conference-paper.pdf">Download Research Paper</a>
       headings:
         about: ''
         education: ''
         interests: ''
+    design:
+      css_class: hbx-bg-gradient
+      avatar:
+        size: medium
+        shape: circle
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
