@@ -1,3 +1,4 @@
+---
 # Leave the homepage title empty to use the site title
 title: 'Jayant Rathi'
 date: 2022-10-24
@@ -10,14 +11,16 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within content/authors/)
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      buttons:
-        - text: Download CV
-          url: uploads/CV.pdf
-        - text: Download Research Paper
-          url: publications/conference-paper/conference-paper.pdf
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/CV.pdf
+      button:
+        text: Download Research Paper
+        url: publications/conference-paper/conference-paper.pdf
       headings:
         about: ''
         education: ''
@@ -29,6 +32,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
 
   - block: markdown
     content:
@@ -92,7 +96,18 @@ sections:
         css_class: 'bg-primary-700'
         css_style: ''
 ---
-      card:
-        css_class: 'bg-primary-700'
+
+
+
+
+
+
+
+
+
+
+
+
+
         css_style: ''
 ---
