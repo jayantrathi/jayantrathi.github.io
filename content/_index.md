@@ -15,10 +15,9 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
+      buttons:
         text: Download CV
         url: uploads/CV.pdf
-      button:
         text: Download Research Paper
         url: publications/conference-paper/conference-paper.pdf
       headings:
