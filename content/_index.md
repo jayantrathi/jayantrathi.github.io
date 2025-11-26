@@ -12,9 +12,12 @@ sections:
     content:
       # Choose a user profile to display (a folder name within content/authors/)
       username: admin
-      text: |
-        <a class="btn btn-primary" href="uploads/CV.pdf" style="margin-right: 10px;">Download CV</a>
-        <a class="btn btn-secondary" href="publications/conference-paper/conference-paper.pdf">Download Research Paper</a>
+      text: ''
+      buttons:
+        - text: Download CV
+          url: uploads/CV.pdf
+        - text: Download Research Paper
+          url: publications/conference-paper/conference-paper.pdf
       headings:
         about: ''
         education: ''
