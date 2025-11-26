@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robotics & AI Engineer | MS Robotics Student
+role: Robotics Engineer | MS Robotics Student | Ex-Mercedes Benz Manufacturing
 
 # Organizations/Affiliations to display in Biography block
 organizations:
