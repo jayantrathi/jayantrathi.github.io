@@ -1,15 +1,16 @@
----
 # Leave the homepage title empty to use the site title
 title: 'Jayant Rathi'
 date: 2022-10-24
 type: landing
 
 design:
+  # Default section spacing
   spacing: '2rem'
 
 sections:
   - block: resume-biography-3
     content:
+      # Choose a user profile to display (a folder name within content/authors/)
       username: admin
       text: |
         <a class="btn btn-primary" href="uploads/CV.pdf" style="margin-right: 10px;">Download CV</a>
@@ -19,22 +20,24 @@ sections:
         education: ''
         interests: ''
     design:
+      # Apply a gradient background
       css_class: hbx-bg-gradient
+      # Avatar customization
       avatar:
-        size: medium
-        shape: circle
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
 
   - block: markdown
     content:
       title: 'About Me '
       subtitle: ''
       text: |-
-        Professionally, I am a Robotics Engineer who builds intelligent systems end-to-end, combining robotics, automation, and machine learning into practical, deployed solutions. I love complex and real-world problems and eventually seeing their solutions have positive effects on the people around me.
+        Professionally, I am a Robotics Engineer who builds intelligent systems end-to-end, combining robotics, automation, and machine learning into           practical, deployed solutions. I love complex and real world problems and eventually seeing their solutions have positive effects on the                 people around me.
 
-    Personally, I'm an Indian born in Thailand, who has grown up in Sri Lanka and is currently in Boston. Having changed 7 schools by the time I was in 5th grade, I've developed a knack for adaptability and finding comfort in the uncomfortable — and I take that approach towards most of what I do.
+        Personally, I'm a Indian born in Thailand, whose grown up in Sri Lanka and is currently in Boston. Having changed 7 schools by the time I was           in 5th grade I've developed a knack for adaptability and finding comfort in the uncomfortable and I take that approach towards most                      of what I do. 
+        
     design:
       columns: '1'
-
   - block: collection
     id: papers
     content:
@@ -46,7 +49,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-
   - block: collection
     content:
       title: Recent Publications
@@ -57,7 +59,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
   - block: collection
     id: talks
     content:
@@ -67,9 +68,8 @@ sections:
           - events
     design:
       view: card
-
   - block: cta-card
-    demo: true
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -84,6 +84,11 @@ sections:
         text: Get Started
         url: https://hugoblox.com/templates/
     design:
+      card:
+        # Card background color (CSS class)
+        css_class: 'bg-primary-700'
+        css_style: ''
+---
       card:
         css_class: 'bg-primary-700'
         css_style: ''
