@@ -16,10 +16,10 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       buttons:
-        text: Download CV
-        url: uploads/CV.pdf
-        text: Download Research Paper
-        url: publications/conference-paper/conference-paper.pdf
+        - text: Download CV
+          url: uploads/CV.pdf
+        - text: Download Research Paper
+          url: publications/conference-paper/conference-paper.pdf
       headings:
         about: ''
         education: ''
