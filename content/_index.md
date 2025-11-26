@@ -18,9 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/CV.pdf
-      button:
-        text: Download Research Paper
-        url: publications/conference-paper/conference-paper.pdf
       headings:
         about: ''
         education: ''
