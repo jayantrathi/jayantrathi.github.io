@@ -90,11 +90,11 @@ work:
     date_end: 2022-01-31
     summary: |2-
       Main projects including-
-    • Occupancy/door usage detection system through a Sound classification based AI, introduced to the theory and concepts of TensorFlow and sound          classification models. 
-    • Sound based danger detection AI models in Python that detected fires, drops, screams, etc, using Keras and TensorFlow libraries achieving 97%         accuracy.
-    • Further researched with SVM models to improve accuracy and real world reliance, before implementing in a real time system to showcase. 
-    • Fall detection system based on detecting disturbances in WiFi signals within a room and training an AI to be able to distinguish between              walking and falling in order to further improve on the "elder care" home security AI suite
-    • Led technical demos and client presentations for major SE Asian telecom clients including True Corp. and Advanced Info Service
+      • Occupancy/door usage detection system through a Sound classification based AI, introduced to the theory and concepts of TensorFlow and sound          classification models. 
+      • Sound based danger detection AI models in Python that detected fires, drops, screams, etc, using Keras and TensorFlow libraries achieving 97%         accuracy.
+      • Further researched with SVM models to improve accuracy and real world reliance, before implementing in a real time system to showcase. 
+      • Fall detection system based on detecting disturbances in WiFi signals within a room and training an AI to be able to distinguish between              walking and falling in order to further improve on the "elder care" home security AI suite
+      • Led technical demos and client presentations for major SE Asian telecom clients including True Corp. and Advanced Info Service
 
   - position: CEO Office Intern
     company_name: Varun Beverages (Pepsi's Largest Bottler in Asia)
