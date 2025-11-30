@@ -78,7 +78,7 @@ work:
     summary: |2-
       Interning in the Logistics and Production Planning Department as a Software/Process Automation Developer. 
       Finding problem statements/areas of difficulty for staff and creating custom software packages and applications to ease workflow and increase         productivity.
-      Main Project Include :
+      Main Project Include -
       - ML Based part-replacement prediction pipeline (Python, Java, VBA), increasing recommendation accuracy and reducing manual verification and           data validation time across SE Asia operations
       - automated shipping-tracking and data validation tools for multiple team members, eliminating manual workflows and improving part traceability       across multiple departments
 
@@ -89,7 +89,7 @@ work:
     date_start: 2021-09-01
     date_end: 2022-01-31
     summary: |2-
-      Main projects including:
+      Main projects including-
     • Occupancy/door usage detection system through a Sound classification based AI, introduced to the theory and concepts of TensorFlow and sound          classification models. 
     • Sound based danger detection AI models in Python that detected fires, drops, screams, etc, using Keras and TensorFlow libraries achieving 97%         accuracy.
     • Further researched with SVM models to improve accuracy and real world reliance, before implementing in a real time system to showcase. 
