@@ -90,7 +90,6 @@ work:
     date_end: 2022-01-31
     summary: |2-
       Main projects including:
-
     • Occupancy/door usage detection system through a Sound classification based AI, introduced to the theory and concepts of TensorFlow and sound          classification models. 
     • Sound based danger detection AI models in Python that detected fires, drops, screams, etc, using Keras and TensorFlow libraries achieving 97%         accuracy.
     • Further researched with SVM models to improve accuracy and real world reliance, before implementing in a real time system to showcase. 
