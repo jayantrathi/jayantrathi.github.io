@@ -77,10 +77,10 @@ work:
     date_end: 2023-09-30
     summary: |2-
       Interning in the Logistics and Production Planning Department as a Software/Process Automation Developer. 
-Finding problem statements/areas of difficulty for staff and creating custom software packages and applications to ease workflow and increase productivity.
-Main Project Include :
-- ML Based part-replacement prediction pipeline (Python, Java, VBA), increasing recommendation accuracy and reducing manual verification and data validation time across SE Asia operations
-- automated shipping-tracking and data validation tools for multiple team members, eliminating manual workflows and improving part traceability across multiple departments
+      Finding problem statements/areas of difficulty for staff and creating custom software packages and applications to ease workflow and increase         productivity.
+      Main Project Include :
+      - ML Based part-replacement prediction pipeline (Python, Java, VBA), increasing recommendation accuracy and reducing manual verification and           data validation time across SE Asia operations
+      - automated shipping-tracking and data validation tools for multiple team members, eliminating manual workflows and improving part traceability       across multiple departments
 
   - position: AI Development Intern
     company_name: Baksters Computer Vision (AI Research Startup)
@@ -91,11 +91,11 @@ Main Project Include :
     summary: |2-
       Main projects including:
 
-•Occupancy/door usage detection system through a Sound classification based AI, introduced to the theory and concepts of TensorFlow and sound classification models. 
-• Sound based danger detection AI models in Python that detected fires, drops, screams, etc, using Keras and TensorFlow libraries achieving 97% accuracy.
-• Further researched with SVM models to improve accuracy and real world reliance, before implementing in a real time system to showcase. 
-• Fall detection system based on detecting disturbances in WiFi signals within a room and training an AI to be able to distinguish between walking and falling in order to further improve on the "elder care" home security AI suite
-• Led technical demos and client presentations for major SE Asian telecom clients including True Corp. and Advanced Info Service
+    • Occupancy/door usage detection system through a Sound classification based AI, introduced to the theory and concepts of TensorFlow and sound          classification models. 
+    • Sound based danger detection AI models in Python that detected fires, drops, screams, etc, using Keras and TensorFlow libraries achieving 97%         accuracy.
+    • Further researched with SVM models to improve accuracy and real world reliance, before implementing in a real time system to showcase. 
+    • Fall detection system based on detecting disturbances in WiFi signals within a room and training an AI to be able to distinguish between              walking and falling in order to further improve on the "elder care" home security AI suite
+    • Led technical demos and client presentations for major SE Asian telecom clients including True Corp. and Advanced Info Service
 
   - position: CEO Office Intern
     company_name: Varun Beverages (Pepsi's Largest Bottler in Asia)
